@@ -21,14 +21,19 @@ The project uses Tailwind CSS for styling. The configuration file is located at 
 ##  Screenshots
 **Full Page**
 ![alt text](FullPage.png)
+
 **Navbar**
 ![alt text](NavBar.png)
+
 **Trending Moments**
 ![alt text](TrendingMoments.png)
 
 **Memorable Quotes**
 ![alt text](MemorableQuotes.png)
+
 **Behind The Scenes**
 ![alt text](BehindTheScenes.png)
+
+
 **Profile Card**
 ![alt text](ProfileCard.png)

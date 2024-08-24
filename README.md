@@ -18,22 +18,17 @@ Superbad is a web application built to practice and showcase Tailwind CSS stylin
 ### Tailwind CSS Configuration
 The project uses Tailwind CSS for styling. The configuration file is located at tailwind.config.js. Tailwind classes are used throughout the HTML files to apply styles, ensuring a consistent and responsive design.
 
-###  Screenshots
-[Full Page]
+##  Screenshots
+**Full Page**
 ![alt text](FullPage.png)
-[Navbar]
+**Navbar**
 ![alt text](NavBar.png)
-
-[Trending Moments]
+**Trending Moments**
 ![alt text](TrendingMoments.png)
 
-[Memorable Quotes]
+**Memorable Quotes**
 ![alt text](MemorableQuotes.png)
-
-
-
-[Behind The Scenes]
+**Behind The Scenes**
 ![alt text](BehindTheScenes.png)
-
-[Profile Card]
+**Profile Card**
 ![alt text](ProfileCard.png)

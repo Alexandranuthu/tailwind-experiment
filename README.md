@@ -37,3 +37,5 @@ The project uses Tailwind CSS for styling. The configuration file is located at 
 
 **Profile Card**
 ![alt text](ProfileCard.png)
+
+![alt text](image.png)

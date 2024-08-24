@@ -11,9 +11,9 @@ Superbad is a web application built to practice and showcase Tailwind CSS stylin
 
 
 ### PROJECT STRUCTURE
-* resources/css/app.css: Tailwind CSS configuration and custom styles.
-* images/: Directory containing image assets used in the project.
-* icons/: Directory for SVG icons.
+* ``resources/css/app.css``: Tailwind CSS configuration and custom styles.
+* ``images/``: Directory containing image assets used in the project.
+* ``icons/``: Directory for SVG icons.
 
 ### Tailwind CSS Configuration
 The project uses Tailwind CSS for styling. The configuration file is located at tailwind.config.js. Tailwind classes are used throughout the HTML files to apply styles, ensuring a consistent and responsive design.

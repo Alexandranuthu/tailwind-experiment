@@ -3,11 +3,11 @@
 Superbad is a web application built to practice and showcase Tailwind CSS styling. This project features a retro pink theme and various sections to demonstrate Tailwind's capabilities in creating a modern, responsive design.
 
 ### Features
-1. Navigation Bar: Includes a logo, search bar, and profile dropdown menu.
-2. Trending Moments: A horizontally scrollable section showcasing memorable moments with a retro vibe.
-3. Behind The Scenes: Features images with a blur effect that reveals their sharpness on hover.
-4. Memorable Quotes: Displays a collection of quotes with a pink retro theme.
-5. Profile Card
+1. **Navigation Bar**: Includes a logo, search bar, and profile dropdown menu.
+2. **Trending Moments**: A horizontally scrollable section showcasing memorable moments with a retro vibe.
+3. **Behind The Scenes**: Features images with a blur effect that reveals their sharpness on hover.
+4. **Memorable Quotes**: Displays a collection of quotes with a pink retro theme.
+5. **Profile Card**
 
 
 ### PROJECT STRUCTURE
